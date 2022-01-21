@@ -40,6 +40,14 @@ Las características que se han utilizado para desarrollar el objeto relacional 
   - “MA”: Atributo Multivaluado, siendo este caso un Array en la tabla.
   - “DA”: Atributo Derivado en la tabla. Actuará como un método o un disparador.
 
+- Se crearán dos métodos, un método para calcular el área de las figuras y otro para calcular el perímetro de los polígonos. Habrá un atributo longitud que actuará como un método.
+
+- Se utiliza la agregación  por colección entre “Proyecto” y “Plano”,  puesto que un proyecto está compuesto por la unión de planos.
+
+- Se utiliza la agregación por composición (física) entre “Polígono” y “Línea”.
+
+- Un “Polígono” es una generalización de “Figura”.
+
 
 ### 4. Capturas de la ejecución
 
