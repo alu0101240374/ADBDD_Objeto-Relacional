@@ -15,19 +15,19 @@ Integrantes del grupo:
 - Alejandro Peraza González
 (alu0101211770@ull.edu.es)
 
-### Introducción
+### 1. Introducción
 
 La realización de esta práctica consiste en crear el diagrama UML correspondiente al Modelo Objeto-Relacional de Arquitectos, cuyo enunciado con los requisitos se puede consultar en la siguiente imagen. Además se deberá crear el script que permita la creación de la base de datos.
 
 ![](https://user-images.githubusercontent.com/72441071/150592299-4a4fb214-cbd1-41eb-94ee-eef50af52a3d.PNG)
 
-### Diagrama UML
+### 2. Diagrama UML
 
 El diagrama UML obtenido a partir de los requisitos especificados se muestra a continuación. 
 
 ![](https://user-images.githubusercontent.com/72441071/150592455-27e96f42-42fd-41bc-81a8-9fcc320658ba.png)
 
-### Características Objeto-Relacionales
+### 3. Características Objeto-Relacionales
 
 Las características que se han utilizado para desarrollar el objeto relacional de arquitectos son las siguientes:
 
@@ -35,10 +35,10 @@ Las características que se han utilizado para desarrollar el objeto relacional 
 
 - Se utiliza el estereotipo “persistent” como palabra clave para crear nuevos constructores UML.
 
-### Capturas de la ejecución
+### 4. Capturas de la ejecución
 
 Para la creación de la base de datos se ha creado un script. Las capturas obtenidas tras su ejecución son las siguientes: 
 
-### Capturas con las consultas
+### 5. Capturas con las consultas
 
 
