@@ -26,3 +26,19 @@ La realización de esta práctica consiste en crear el diagrama UML correspondie
 El diagrama UML obtenido a partir de los requisitos especificados se muestra a continuación. 
 
 ![](https://user-images.githubusercontent.com/72441071/150592455-27e96f42-42fd-41bc-81a8-9fcc320658ba.png)
+
+### Características Objeto-Relacionales
+
+Las características que se han utilizado para desarrollar el objeto relacional de arquitectos son las siguientes:
+
+- Se crean seis clases. Cada una tendrá un nombre con el que distinguirlas, unos atributos que representan las propiedades de la clase, y algunas de ellas, contendrá operaciones que probarán un comportamiento específico.
+
+- Se utiliza el estereotipo “persistent” como palabra clave para crear nuevos constructores UML.
+
+### Capturas de la ejecución
+
+Para la creación de la base de datos se ha creado un script. Las capturas obtenidas tras su ejecución son las siguientes: 
+
+### Capturas con las consultas
+
+
