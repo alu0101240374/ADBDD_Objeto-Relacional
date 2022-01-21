@@ -17,12 +17,12 @@ Integrantes del grupo:
 
 ### Introducción
 
-La realización de esta práctica consiste en crear el diagrama UML correspondiente al Modelo Objeto-Relacional de Arquitectos, cuyo enunciado con los requisitos se puede consultar en la Figura 1. Además se deberá crear el script que permita la creación de la base de datos.
+La realización de esta práctica consiste en crear el diagrama UML correspondiente al Modelo Objeto-Relacional de Arquitectos, cuyo enunciado con los requisitos se puede consultar en la siguiente imagen. Además se deberá crear el script que permita la creación de la base de datos.
 
 ![](https://user-images.githubusercontent.com/72441071/150592299-4a4fb214-cbd1-41eb-94ee-eef50af52a3d.PNG)
 
 ### Diagrama UML
 
-El diagrama UML obtenido a partir de los requisitos especificados se muestra en la Figura 2. 
+El diagrama UML obtenido a partir de los requisitos especificados se muestra a continuación. 
 
 ![](https://user-images.githubusercontent.com/72441071/150592455-27e96f42-42fd-41bc-81a8-9fcc320658ba.png)
