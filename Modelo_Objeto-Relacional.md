@@ -34,6 +34,12 @@ Las características que se han utilizado para desarrollar el objeto relacional 
 - Se crean seis clases. Cada una tendrá un nombre con el que distinguirlas, unos atributos que representan las propiedades de la clase, y algunas de ellas, contendrá operaciones que probarán un comportamiento específico.
 
 - Se utiliza el estereotipo “persistent” como palabra clave para crear nuevos constructores UML.
+  - “PK”: Primary Key en la tabla.
+  - “AK”: Actuará como Unique en la tabla.
+  - “CA”: Atributo Compuesto en la tabla.
+  - “MA”: Atributo Multivaluado, siendo este caso un Array en la tabla.
+  - “DA”: Atributo Derivado en la tabla. Actuará como un método o un disparador.
+
 
 ### 4. Capturas de la ejecución
 
