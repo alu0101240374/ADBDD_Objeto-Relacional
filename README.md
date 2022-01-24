@@ -65,7 +65,7 @@ Para la creación de la base de datos se ha creado un script. Las capturas obten
 
 ![5](https://user-images.githubusercontent.com/72867635/150871335-70f48623-6922-4bef-af4b-641b7afd4b19.PNG)
 
-![6](https://user-images.githubusercontent.com/72867635/150871355-897e87e9-c987-4387-b73d-4daba762351d.PNG)
+![6](https://user-images.githubusercontent.com/72867635/150871991-7849f90a-5ff4-45ac-a439-62a0ac112790.PNG)
 
 ![7](https://user-images.githubusercontent.com/72867635/150871375-3b617c1b-28d0-4d1b-9a9e-ca5a7272f2ea.PNG)
 
