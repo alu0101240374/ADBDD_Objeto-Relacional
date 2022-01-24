@@ -55,4 +55,18 @@ Para la creación de la base de datos se ha creado un script. Las capturas obten
 
 ### 5. Capturas con las consultas
 
+![1](https://user-images.githubusercontent.com/72867635/150871250-8a4bd33f-c0f9-4126-a5a6-a7575029b308.PNG)
+
+![2](https://user-images.githubusercontent.com/72867635/150871269-0934acf8-fc87-4f6a-8c46-f79e87bee41e.PNG)
+
+![3](https://user-images.githubusercontent.com/72867635/150871291-85680f27-6279-462d-8e9f-e0d098a206cb.PNG)
+
+![4](https://user-images.githubusercontent.com/72867635/150871306-da4fde4e-110c-4897-8faa-8ddb33074d98.PNG)
+
+![5](https://user-images.githubusercontent.com/72867635/150871335-70f48623-6922-4bef-af4b-641b7afd4b19.PNG)
+
+![6](https://user-images.githubusercontent.com/72867635/150871355-897e87e9-c987-4387-b73d-4daba762351d.PNG)
+
+![7](https://user-images.githubusercontent.com/72867635/150871375-3b617c1b-28d0-4d1b-9a9e-ca5a7272f2ea.PNG)
+
 
