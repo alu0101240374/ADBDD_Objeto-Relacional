@@ -53,6 +53,10 @@ Las características que se han utilizado para desarrollar el objeto relacional 
 
 Para la creación de la base de datos se ha creado un script. Las capturas obtenidas tras su ejecución son las siguientes: 
 
+![ejecucion1](https://user-images.githubusercontent.com/72867635/150875651-83a68ab6-059d-4460-a2eb-ac3005553eea.PNG)
+
+![ejecucion2](https://user-images.githubusercontent.com/72867635/150875662-ca9e97c9-4966-4611-864f-211e77251a0e.PNG)
+
 ### 5. Capturas con las consultas
 
 ![1](https://user-images.githubusercontent.com/72867635/150871250-8a4bd33f-c0f9-4126-a5a6-a7575029b308.PNG)
